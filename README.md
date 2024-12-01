@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Software Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwNTgwODAsIm5iZiI6MTczMzA1Nzc4MCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAxVDEyNTYyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkZWY5ODkzN2NlMzVhNjUyYmQ1ODg5ZjFlNjQ5NzNlN2UyNTMyOGMxODFlYjNhYzlmNTExZTNjMjJiMGRmMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mJwPU8KLDZwm7R75G83NJxou3d1POCAEFkIbK-aRXIM" alt="Coding GIF" height="500" width="700" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="500" width="700" />
 </p>
 
 ---
@@ -56,5 +56,5 @@
 
 ## 🌟 Fun:
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Fun Coding GIF" width="600"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwNTgwODAsIm5iZiI6MTczMzA1Nzc4MCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAxVDEyNTYyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkZWY5ODkzN2NlMzVhNjUyYmQ1ODg5ZjFlNjQ5NzNlN2UyNTMyOGMxODFlYjNhYzlmNTExZTNjMjJiMGRmMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mJwPU8KLDZwm7R75G83NJxou3d1POCAEFkIbK-aRXIM" width="600"/>
 </p>
