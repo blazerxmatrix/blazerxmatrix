@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Software Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWMxeDRnNWw2a2JkZnZ3eGZ4bmpzeGxmaGJhamRwdnpidHNxeGVzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.webp" alt="Coding GIF" width="600" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWMxeDRnNWw2a2JkZnZ3eGZ4bmpzeGxmaGJhamRwdnpidHNxeGVzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.webp" alt="Coding GIF" width="900" />
 </p>
 
 ---
