@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=blazerxmatrix&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -51,6 +51,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazerxmatrix&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
